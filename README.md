@@ -3,7 +3,7 @@ code to suggest next 3 possible words using nlp,n-gram and probability
 NA:- this is a limited source you can create your own source 
 
 		WITHOUT THE PICKLE FILE ONLY USING TEXT FILE(WILL SHOW GOOD RESULT)
-i have uploaded the minimun text file requires
+i have uploaded the minimun text file required
 
 Step-1:run the without_pickle_search_word.ipynb (may take so much time to run  as so many text files
 
