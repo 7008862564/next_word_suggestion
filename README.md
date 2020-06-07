@@ -10,4 +10,4 @@ Step-1:run the without_pickle_search_word.ipynb (may take so much time to run  a
 		RUN WITH THE PICKLE FILES(WILL SHOW BEST RESULT)
 
 Step-1: Download the pickle files from the link: https://drive.google.com/drive/folders/1KFQfzyc41hW2u77j5koW1omOvzCid3DF?usp=sharing 
-Step-2:run the file 
+Step-2:run the file  final_with_pickle.ipynb
